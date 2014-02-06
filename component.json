@@ -2,7 +2,7 @@
   "name": "lucky-orange",
   "version": "0.0.1",
   "repo": "logo/lucky-orange",
-  "images": [],
+  "images": ["images/logo.png"],
   "styles": [
     "index.css"
   ],
