@@ -1,13 +1,18 @@
 {
+  "logo": "Lucky Orange",
   "name": "lucky-orange",
-  "version": "0.0.1",
   "repo": "logo/lucky-orange",
-  "images": ["images/logo.png"],
+  "description": "The Lucky Orange logo.",
+  "version": "0.0.2",
+  "license": "MIT",
   "styles": [
     "index.css"
   ],
-  "development": {
+  "images": [
+    "images/logo-monochromatic.svg",
+    "images/logo.svg"
+  ],
+  "dependencies": {
     "logo/logo": "*"
-  },
-  "license": "MIT"
+  }
 }
