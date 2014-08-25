@@ -1,14 +1,2 @@
-
-/**
- * Lucky Orange
- */
-
-.logo[data-logo="Lucky Orange"] {
-  width: 5em;
-  /* (400/72) * (1-.1) - 0 */
-}
-
-.logo[data-logo="Lucky Orange"] > * {
-  background-image: url(images/logo.png);
-  margin: 0 0 .1em;
-}
+@import 'logo/logo';
+@import './style';
